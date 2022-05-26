@@ -2,12 +2,12 @@
 
 Clon de instagram mediante flutter 
 En este proyecto haremos un clon de la aplicacion de instagram en donde se podran hacer cosas como
-subir fotos, dar likes, seguir gente, cometar, autentificar el usuario
+subir fotos, dar likes, seguir gente, cometar, autentificar el usuario.
 
-para esto usaremos flutter en conjunto con firebase y que nos da una gran facilidad para realizarlo en
+Para esto usaremos flutter en conjunto con firebase y que nos da una gran facilidad para realizarlo en
 distintas plataformas y tener una buena verificacion.
 
-La Pagina web esta diseñada tanto para Web, celular IOS y para aplicacion de escritorio.
+El proyecto Instagram clone esta diseñado para Web, celular IOS/Android y para aplicacion de escritorio.
 
 Si desea correr el programa en su VS, debera de descargar el repositorio y instalar cada una de las extensiones que usamos:
 <ul>
