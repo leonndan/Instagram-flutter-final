@@ -10,7 +10,7 @@ distintas plataformas y tener una buena verificacion.
 La Pagina web esta diseñada tanto para Web, celular IOS y para aplicacion de escritorio.
 
 Si desea correr el programa en su VS, debera de descargar el repositorio y instalar cada una de las extensiones que usamos:
-  -cupertino_icons: ^1.0.2
+-cupertino_icons: ^1.0.2
   -firebase_core: ^1.15.0
   -cloud_firestore: ^3.1.13
   -firebase_storage: ^10.2.14
